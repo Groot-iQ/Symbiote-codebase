@@ -1,0 +1,19 @@
+python-dotenv==1.0.0
+pydantic>=2.7.0
+pydantic-settings>=2.0.0
+fastapi==0.103.1
+uvicorn==0.23.2
+websockets==11.0.3
+psutil==5.9.5
+GPUtil==1.4.0
+opencv-python==4.8.0.76
+pyaudio==0.2.13
+pygame==2.5.2
+# RPi.GPIO==0.7.1  # Only needed for Raspberry Pi
+Adafruit-SSD1306==1.6.2
+cryptography==41.0.1
+netifaces==0.11.0
+# PyBluez alternative for Windows
+bleak==0.21.1  # For Bluetooth Low Energy support
+groq==0.4.2  # For Groq LLM integration
+PyQt6==6.6.1  # For GUI interface 

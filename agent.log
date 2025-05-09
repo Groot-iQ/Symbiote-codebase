@@ -1,0 +1,79 @@
+2025-05-09 00:08:11,059 - __main__ - INFO - Starting agent service with ID: desktop_Aditya-LAPTOP
+2025-05-09 00:08:12,068 - agent.core.llm_integration - INFO - Initialized Groq LLM integration with model: deepseek-r1-distill-llama-70b
+2025-05-09 00:08:12,068 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP initialized successfully
+2025-05-09 00:08:12,069 - agent.core.agent_core - INFO - Starting agent desktop_Aditya-LAPTOP
+2025-05-09 00:08:12,104 - agent.communication.wifi_protocol - ERROR - Error starting WebSocket server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8000): only one usage of each socket address (protocol/network address/port) is normally permitted
+2025-05-09 00:08:12,113 - agent.communication.communication_layer - ERROR - Error broadcasting data: 'BluetoothProtocolHandler' object has no attribute 'broadcast_data'
+2025-05-09 00:08:12,114 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP started successfully
+2025-05-09 00:08:45,268 - __main__ - INFO - Received shutdown signal: 2
+2025-05-09 00:08:45,269 - agent.core.agent_core - INFO - Stopping agent desktop_Aditya-LAPTOP
+2025-05-09 00:08:45,309 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP stopped successfully
+2025-05-09 00:08:45,309 - __main__ - INFO - Agent service stopped
+2025-05-09 00:09:08,468 - __main__ - INFO - Starting agent service with ID: desktop_Aditya-LAPTOP
+2025-05-09 00:09:09,559 - agent.core.llm_integration - INFO - Initialized Groq LLM integration with model: deepseek-r1-distill-llama-70b
+2025-05-09 00:09:09,560 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP initialized successfully
+2025-05-09 00:09:09,560 - agent.core.agent_core - INFO - Starting agent desktop_Aditya-LAPTOP
+2025-05-09 00:09:09,592 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-05-09 00:09:09,593 - agent.communication.wifi_protocol - INFO - WebSocket server started on port 8000
+2025-05-09 00:09:09,596 - agent.communication.communication_layer - ERROR - Error broadcasting data: 'BluetoothProtocolHandler' object has no attribute 'broadcast_data'
+2025-05-09 00:09:09,597 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP started successfully
+2025-05-09 16:23:52,627 - __main__ - INFO - Starting agent service with ID: desktop_Aditya-LAPTOP
+2025-05-09 16:23:53,646 - agent.core.llm_integration - INFO - Initialized Groq LLM integration with model: deepseek-r1-distill-llama-70b
+2025-05-09 16:23:53,646 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP initialized successfully
+2025-05-09 16:23:53,646 - agent.core.agent_core - INFO - Starting agent desktop_Aditya-LAPTOP
+2025-05-09 16:23:53,689 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-05-09 16:23:53,689 - agent.communication.wifi_protocol - INFO - WebSocket server started on port 8000
+2025-05-09 16:23:53,700 - agent.communication.communication_layer - ERROR - Error broadcasting data: 'BluetoothProtocolHandler' object has no attribute 'broadcast_data'
+2025-05-09 16:23:53,701 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP started successfully
+2025-05-09 16:28:25,176 - __main__ - INFO - Received shutdown signal: 2
+2025-05-09 16:28:25,176 - agent.core.agent_core - INFO - Stopping agent desktop_Aditya-LAPTOP
+2025-05-09 16:28:25,254 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP stopped successfully
+2025-05-09 16:28:25,254 - __main__ - INFO - Agent service stopped
+2025-05-09 16:28:27,842 - __main__ - INFO - Starting agent service with ID: desktop_Aditya-LAPTOP
+2025-05-09 16:28:28,359 - agent.core.llm_integration - INFO - Initialized Groq LLM integration with model: deepseek-r1-distill-llama-70b
+2025-05-09 16:28:28,360 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP initialized successfully
+2025-05-09 16:28:28,360 - agent.core.agent_core - INFO - Starting agent desktop_Aditya-LAPTOP
+2025-05-09 16:28:28,411 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-05-09 16:28:28,412 - agent.communication.wifi_protocol - INFO - WebSocket server started on port 8000
+2025-05-09 16:28:28,433 - agent.communication.communication_layer - ERROR - Error broadcasting data: 'BluetoothProtocolHandler' object has no attribute 'broadcast_data'
+2025-05-09 16:28:28,434 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP started successfully
+2025-05-09 16:32:21,691 - __main__ - INFO - Received shutdown signal: 2
+2025-05-09 16:32:21,691 - agent.core.agent_core - INFO - Stopping agent desktop_Aditya-LAPTOP
+2025-05-09 16:32:21,707 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP stopped successfully
+2025-05-09 16:32:21,707 - __main__ - INFO - Agent service stopped
+2025-05-09 16:32:23,690 - __main__ - INFO - Starting agent service with ID: desktop_Aditya-LAPTOP
+2025-05-09 16:32:24,268 - agent.core.llm_integration - INFO - Initialized Groq LLM integration with model: deepseek-r1-distill-llama-70b
+2025-05-09 16:32:24,268 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP initialized successfully
+2025-05-09 16:32:24,268 - agent.core.agent_core - INFO - Starting agent desktop_Aditya-LAPTOP
+2025-05-09 16:32:24,307 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-05-09 16:32:24,307 - agent.communication.wifi_protocol - INFO - WebSocket server started on port 8000
+2025-05-09 16:32:24,315 - agent.communication.communication_layer - ERROR - Error broadcasting data: 'BluetoothProtocolHandler' object has no attribute 'broadcast_data'
+2025-05-09 16:32:24,315 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP started successfully
+2025-05-09 16:36:05,120 - __main__ - INFO - Received shutdown signal: 2
+2025-05-09 16:36:05,120 - agent.core.agent_core - INFO - Stopping agent desktop_Aditya-LAPTOP
+2025-05-09 16:36:05,135 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP stopped successfully
+2025-05-09 16:36:05,135 - __main__ - INFO - Agent service stopped
+2025-05-09 16:36:41,324 - __main__ - INFO - Starting agent service with ID: desktop_Aditya-LAPTOP
+2025-05-09 16:36:42,741 - agent.core.llm_integration - INFO - Initialized Groq LLM integration with model: deepseek-r1-distill-llama-70b
+2025-05-09 16:36:42,748 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP initialized successfully
+2025-05-09 16:36:42,750 - agent.core.agent_core - INFO - Starting agent desktop_Aditya-LAPTOP
+2025-05-09 16:36:42,877 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-05-09 16:36:42,877 - agent.communication.wifi_protocol - INFO - WebSocket server started on port 8000
+2025-05-09 16:36:42,912 - agent.communication.communication_layer - ERROR - Error broadcasting data: 'BluetoothProtocolHandler' object has no attribute 'broadcast_data'
+2025-05-09 16:36:42,919 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP started successfully
+2025-05-09 16:40:57,750 - __main__ - INFO - Received shutdown signal: 2
+2025-05-09 16:40:57,750 - agent.core.agent_core - INFO - Stopping agent desktop_Aditya-LAPTOP
+2025-05-09 16:40:57,796 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP stopped successfully
+2025-05-09 16:40:57,797 - __main__ - INFO - Agent service stopped
+2025-05-09 16:43:19,822 - __main__ - INFO - Starting agent service with ID: desktop_Aditya-LAPTOP
+2025-05-09 16:43:21,365 - agent.core.llm_integration - INFO - Initialized Groq LLM integration with model: deepseek-r1-distill-llama-70b
+2025-05-09 16:43:21,365 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP initialized successfully
+2025-05-09 16:43:21,365 - agent.core.agent_core - INFO - Starting agent desktop_Aditya-LAPTOP
+2025-05-09 16:43:21,403 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-05-09 16:43:21,403 - agent.communication.wifi_protocol - INFO - WebSocket server started on port 8000
+2025-05-09 16:43:21,410 - agent.communication.communication_layer - ERROR - Error broadcasting data: 'BluetoothProtocolHandler' object has no attribute 'broadcast_data'
+2025-05-09 16:43:21,411 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP started successfully
+2025-05-09 16:56:20,740 - __main__ - INFO - Received shutdown signal: 2
+2025-05-09 16:56:20,740 - agent.core.agent_core - INFO - Stopping agent desktop_Aditya-LAPTOP
+2025-05-09 16:56:20,768 - agent.core.agent_core - INFO - Agent desktop_Aditya-LAPTOP stopped successfully
+2025-05-09 16:56:20,769 - __main__ - INFO - Agent service stopped
