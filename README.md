@@ -34,7 +34,7 @@ A sophisticated mobile AI agent system that enables seamless communication and t
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Groot-iQ/Symbiote-codebase.git
    cd mobile-ai-agent
    ```
 
